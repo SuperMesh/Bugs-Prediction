@@ -17,7 +17,7 @@ Given Github's issues with text and body, train a model that can predict bugs, f
 
 ### Dataset Descrption
 
-Dataset used here is from a hackathon hosted by [MachineHack](https://www.machinehack.com/). Go to the hackathon [homepage]((https://www.machinehack.com/hackathons/5e8327d352c028cd80a0bd99)) to know more about the dataset. The dataset set contains features like Location, Manufacture details, car features such as Fuel type, Engine, and usage parameters. Below is the app in Working condition.
+Dataset used here is from a hackathon hosted by [MachineHack](https://www.machinehack.com/). Go to the hackathon [homepage]((https://www.machinehack.com/hackathons/5e8327d352c028cd80a0bd99)) to know more about the dataset.
 
 * Size of training set: 150,000 data points + 300,000 data points extra training data | Size of test set: 30,000 datapoints 
   
